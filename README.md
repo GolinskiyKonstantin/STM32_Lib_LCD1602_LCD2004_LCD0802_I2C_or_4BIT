@@ -11,4 +11,6 @@ STM32 Lib LCD1602 LCD2004 LCD0802 I2C or 4BIT EN RUS UA
 
 Пример в файле example.txt
 
+Видео обзор: https://youtu.be/6gQ49cA09Og
+
 По всем вопросам пишите: golinskiy.konstantin@gmail.com
